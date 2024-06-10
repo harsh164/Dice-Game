@@ -1,0 +1,29 @@
+body{
+  background-color: bisque;
+}
+text{
+  font-size: xx-large;
+}
+.container{
+  text-align: center;
+}
+h1{
+  
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+p{
+    
+    font-family: "Indie Flower", cursive;
+    font-weight:800px;
+    font-size: xx-large;
+  }
+.refresh{
+  font-size: x-large;
+} 
+.dice{
+  align-items: center;
+  display:inline-block;
+  border-image: stretch;
+}
